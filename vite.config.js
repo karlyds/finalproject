@@ -5,3 +5,13 @@ import react from '@vitejs/plugin-react-swc'
 export default defineConfig({
   plugins: [react()],
 })
+
+// // vite.config.js
+// import { defineConfig } from 'vite';
+
+// export default defineConfig({
+//   // Other configurations...
+//   optimizeDeps: {
+//     include: ['cities.json'],
+//   },
+// });

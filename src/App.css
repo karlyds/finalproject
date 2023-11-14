@@ -1,3 +1,82 @@
-body {
-  margin: 0;
+Body {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+}
+
+.city-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.city-details {
+  text-align: left;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.city-card {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.city-name {
+  font-size: 1.5em;
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.population,
+.description,
+.location,
+.area,
+.language,
+.currency {
+  margin-bottom: 6px;
+  color: #555;
+}
+
+.population {
+  font-weight: bold;
+  color: #333;
+}
+
+.description {
+  font-style: italic;
+}
+
+.location,
+.area,
+.language,
+.currency {
+  font-weight: bold;
+}
+
+.location {
+  color: #0288D1; /* Dark blue color */
+}
+
+.area {
+  color: #388E3C; /* Dark green color */
+}
+
+.language {
+  color: #E64A19; /* Dark orange color */
+}
+
+.currency {
+  color: #FF6F00; /* Amber color */
 }

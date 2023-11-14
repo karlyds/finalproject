@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "name": "Tokyo",
+    "country": "Japan",
+    "population": 37400068,
+    "description": "Tokyo is the capital of Japan and one of the world's most populous cities.",
+    "location": {
+      "latitude": 35.682839,
+      "longitude": 139.759455
+    },
+    "statistics": {
+      "area": "2,187.66 sq. km",
+      "officialLanguage": "Japanese",
+      "currency": "Japanese Yen"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Delhi",
+    "country": "India",
+    "population": 30290936,
+    "description": "Delhi is the capital of India and a major cultural and political center.",
+    "location": {
+      "latitude": 28.613939,
+      "longitude": 77.209021
+    },
+    "statistics": {
+      "area": "1,484 sq. km",
+      "officialLanguage": "Hindi, English",
+      "currency": "Indian Rupee"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Shanghai",
+    "country": "China",
+    "population": 27058479,
+    "description": "Shanghai is China's largest city and a global financial hub.",
+    "location": {
+      "latitude": 31.230416,
+      "longitude": 121.473701
+    },
+    "statistics": {
+      "area": "6,341 sq. km",
+      "officialLanguage": "Mandarin",
+      "currency": "Chinese Yuan"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Sao Paulo",
+    "country": "Brazil",
+    "population": 22043028,
+    "description": "Sao Paulo is the largest city in Brazil and South America.",
+    "location": {
+      "latitude": -23.550520,
+      "longitude": -46.633308
+    },
+    "statistics": {
+      "area": "1,521 sq. km",
+      "officialLanguage": "Portuguese",
+      "currency": "Brazilian Real"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Mumbai",
+    "country": "India",
+    "population": 20411176,
+    "description": "Mumbai is India's financial and entertainment hub.",
+    "location": {
+      "latitude": 19.076090,
+      "longitude": 72.877426
+    },
+    "statistics": {
+      "area": "603.4 sq. km",
+      "officialLanguage": "Marathi, Hindi",
+      "currency": "Indian Rupee"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Beijing",
+    "country": "China",
+    "population": 19621312,
+    "description": "Beijing is the capital of China and a cultural center.",
+    "location": {
+      "latitude": 39.904211,
+      "longitude": 116.407395
+    },
+    "statistics": {
+      "area": "16,411 sq. km",
+      "officialLanguage": "Mandarin",
+      "currency": "Chinese Yuan"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Cairo",
+    "country": "Egypt",
+    "population": 19388868,
+    "description": "Cairo is the capital of Egypt and a historic city on the Nile.",
+    "location": {
+      "latitude": 30.044420,
+      "longitude": 31.235712
+    },
+    "statistics": {
+      "area": "606 sq. km",
+      "officialLanguage": "Arabic",
+      "currency": "Egyptian Pound"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Dhaka",
+    "country": "Bangladesh",
+    "population": 19224897,
+    "description": "Dhaka is the capital and largest city of Bangladesh.",
+    "location": {
+      "latitude": 23.810332,
+      "longitude": 90.412518
+    },
+    "statistics": {
+      "area": "306 sq. km",
+      "officialLanguage": "Bengali",
+      "currency": "Bangladeshi Taka"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Osaka",
+    "country": "Japan",
+    "population": 19124985,
+    "description": "Osaka is a major city in Japan known for its modern architecture.",
+    "location": {
+      "latitude": 34.693738,
+      "longitude": 135.502165
+    },
+    "statistics": {
+      "area": "225.21 sq. km",
+      "officialLanguage": "Japanese",
+      "currency": "Japanese Yen"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Karachi",
+    "country": "Pakistan",
+    "population": 18971506,
+    "description": "Karachi is the largest city in Pakistan and a major economic center.",
+    "location": {
+      "latitude": 24.860735,
+      "longitude": 67.001137
+    },
+    "statistics": {
+      "area": "591 sq. km",
+      "officialLanguage": "Urdu",
+      "currency": "Pakistani Rupee"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Chongqing",
+    "country": "China",
+    "population": 18630000,
+    "description": "Chongqing is a major city in southwestern China.",
+    "location": {
+      "latitude": 29.563009,
+      "longitude": 106.551559
+    },
+    "statistics": {
+      "area": "8,380 sq. km",
+      "officialLanguage": "Mandarin",
+      "currency": "Chinese Yuan"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Lahore",
+    "country": "Pakistan",
+    "population": 14320425,
+    "description": "Lahore is a historic city in Pakistan known for its rich culture.",
+    "location": {
+      "latitude": 31.549710,
+      "longitude": 74.343609
+    },
+    "statistics": {
+      "area": "1,772 sq. km",
+      "officialLanguage": "Urdu",
+      "currency": "Pakistani Rupee"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Shenzhen",
+    "country": "China",
+    "population": 12528300,
+    "description": "Shenzhen is a major city in southern China and a technology hub.",
+    "location": {
+      "latitude": 22.543096,
+      "longitude": 114.057865
+    },
+    "statistics": {
+      "area": "1,996.8 sq. km",
+      "officialLanguage": "Mandarin",
+      "currency": "Chinese Yuan"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Seoul",
+    "country": "South Korea",
+    "population": 9741381,
+    "description": "Seoul is the capital and largest city of South Korea, known for its modern skyscrapers and vibrant street life.",
+    "location": {
+      "latitude": 37.566535,
+      "longitude": 126.977969
+    },
+    "statistics": {
+      "area": "605.25 sq. km",
+      "officialLanguage": "Korean",
+      "currency": "South Korean Won"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Moscow",
+    "country": "Russia",
+    "population": 12506468,
+    "description": "Moscow is the capital and largest city of Russia, famous for its historic architecture and cultural heritage.",
+    "location": {
+      "latitude": 55.755825,
+      "longitude": 37.617298
+    },
+    "statistics": {
+      "area": "2,511 sq. km",
+      "officialLanguage": "Russian",
+      "currency": "Russian Ruble"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Berlin",
+    "country": "Germany",
+    "population": 3769495,
+    "description": "Berlin is the capital and largest city of Germany, known for its rich history and modern arts scene.",
+    "location": {
+      "latitude": 52.520008,
+      "longitude": 13.404954
+    },
+    "statistics": {
+      "area": "891.68 sq. km",
+      "officialLanguage": "German",
+      "currency": "Euro"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Mexico City",
+    "country": "Mexico",
+    "population": 9209944,
+    "description": "Mexico City is the capital and largest city of Mexico, renowned for its cultural heritage and vibrant atmosphere.",
+    "location": {
+      "latitude": 19.432608,
+      "longitude": -99.133209
+    },
+    "statistics": {
+      "area": "1,485 sq. km",
+      "officialLanguage": "Spanish",
+      "currency": "Mexican Peso"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Istanbul",
+    "country": "Turkey",
+    "population": 15469504,
+    "description": "Istanbul is a transcontinental city straddling Europe and Asia, known for its historic sites and diverse culture.",
+    "location": {
+      "latitude": 41.008238,
+      "longitude": 28.978359
+    },
+    "statistics": {
+      "area": "5,343 sq. km",
+      "officialLanguage": "Turkish",
+      "currency": "Turkish Lira"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Bangalore",
+    "country": "India",
+    "population": 12537925,
+    "description": "Bangalore is a major IT hub and the capital of the Indian state of Karnataka.",
+    "location": {
+      "latitude": 12.971599,
+      "longitude": 77.594562
+    },
+    "statistics": {
+      "area": "709 sq. km",
+      "officialLanguage": "Kannada, English",
+      "currency": "Indian Rupee"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Bangkok",
+    "country": "Thailand",
+    "population": 10451896,
+    "description": "Bangkok is the capital and largest city of Thailand, known for its vibrant street life.",
+    "location": {
+      "latitude": 13.756331,
+      "longitude": 100.501762
+    },
+    "statistics": {
+      "area": "1,568.7 sq. km",
+      "officialLanguage": "Thai",
+      "currency": "Thai Baht"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Lima",
+    "country": "Peru",
+    "population": 10717104,
+    "description": "Lima is the capital and largest city of Peru.",
+    "location": {
+      "latitude": -12.046374,
+      "longitude": -77.042793
+    },
+    "statistics": {
+      "area": "2,672.3 sq. km",
+      "officialLanguage": "Spanish",
+      "currency": "Peruvian Nuevo Sol"
+    }
+  },
+  {
+    "id": 22,
+    "name": "New York City",
+    "country": "United States",
+    "population": 8175133,
+    "description": "New York City is a global financial and cultural hub located in the United States.",
+    "location": {
+      "latitude": 40.712776,
+      "longitude": -74.005974
+    },
+    "statistics": {
+      "area": "468.9 sq. km",
+      "officialLanguage": "English",
+      "currency": "US Dollar"
+    }
+  },
+  {
+    "id": 23,
+    "name": "London",
+    "country": "United Kingdom",
+    "population": 8982256,
+    "description": "London is the capital and largest city of the United Kingdom.",
+    "location": {
+      "latitude": 51.509865,
+      "longitude": -0.118092
+    },
+    "statistics": {
+      "area": "1,572 sq. km",
+      "officialLanguage": "English",
+      "currency": "British Pound Sterling"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Paris",
+    "country": "France",
+    "population": 2148327,
+    "description": "Paris is the capital and largest city of France, known for its art and culture.",
+    "location": {
+      "latitude": 48.856613,
+      "longitude": 2.352222
+    },
+    "statistics": {
+      "area": "105.4 sq. km",
+      "officialLanguage": "French",
+      "currency": "Euro"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Sydney",
+    "country": "Australia",
+    "population": 5312163,
+    "description": "Sydney is the largest city in Australia, famous for its iconic landmarks and beautiful beaches.",
+    "location": {
+      "latitude": -33.868820,
+      "longitude": 151.209296
+    },
+    "statistics": {
+      "area": "4,775 sq. km",
+      "officialLanguage": "English",
+      "currency": "Australian Dollar"
+    }
+  }
+]
