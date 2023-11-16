@@ -1,5 +1,11 @@
-Body {
+body {
   font-family: 'Helvetica', 'Arial', sans-serif;
+  background-color: #000;
+  background: url('images/hong-kong-city-lit-up-at-night-2022-03-04-02-39-09-utc.jpg') no-repeat center center fixed;
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  margin: 0;
 }
 
 .App {
@@ -7,55 +13,50 @@ Body {
 }
 
 header {
-  background-color: #333;
+  background: ##6B5F60;
   color: white;
-  padding: 10px;
+  padding: 20px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 24px;
+  font-family: 'Quicksand', 'Arial', sans-serif;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); 
 }
-
 .city-list {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
 }
 
-.city-details {
-  text-align: left;
-  max-width: 600px;
-  margin: 0 auto;
-}
-
 .city-card {
   background-color: #fff;
+  color: #333;
   border: 1px solid #ddd;
   border-radius: 8px;
   padding: 16px;
-  margin-bottom: 20px;
+  margin: 20px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 300px;
 }
+
 
 .city-name {
   font-size: 1.5em;
   margin-bottom: 8px;
-  color: #333;
-}
-
-.population,
-.description,
-.location,
-.area,
-.language,
-.currency {
-  margin-bottom: 6px;
-  color: #555;
+  font-family: 'Quicksand';
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); 
+  color: #000203;
 }
 
 .population {
   font-weight: bold;
-  color: #333;
+  color: orange;
+  font-family: 'Quicksand';
 }
 
 .description {
   font-style: italic;
+  color: #555;
 }
 
 .location,
@@ -63,20 +64,21 @@ header {
 .language,
 .currency {
   font-weight: bold;
+  margin-bottom: 6px;
 }
 
 .location {
-  color: #0288D1; /* Dark blue color */
+  color: navy;
 }
 
 .area {
-  color: #388E3C; /* Dark green color */
+  color:grey;
 }
 
 .language {
-  color: #E64A19; /* Dark orange color */
+  color: pink;
 }
 
 .currency {
-  color: #FF6F00; /* Amber color */
+  color: purple
 }

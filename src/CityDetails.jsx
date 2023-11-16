@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const CityDetails = ({ city }) => {
   const { name, country, population, description, location, statistics } = city;
 
